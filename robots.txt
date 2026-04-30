@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /connectors-test-website/page3.html
